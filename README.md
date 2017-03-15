@@ -41,7 +41,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Underground: The Julian Assange Story](http://www.imdb.com/title/tt2357453/)              | Drama/Biography           | 2012 | 6.8/10 |
 | [The Fifth Estate](http://www.imdb.com/title/tt1837703/)                                   | Thriller/Drama            | 2013 | 6.2/10 |
 | [The Social Network](http://www.imdb.com/title/tt1285016/)                                 | Drama/History             | 2010 | 7.7/10 |
-| [Enemy of the State](http://www.imdb.com/title/tt0120660/)                                 | Thriller/Drama            | 1998 | 7.3/10 |
+| [~~Enemy of the State~~](http://www.imdb.com/title/tt0120660/)                                 | Thriller/Drama            | 1998 | 7.3/10 |
 | [The Girl with the Dragon Tattoo](http://www.imdb.com/title/tt1568346/)                    | Thriller/Drama            | 2011 | 7.8/10 |
 | [Snowden](http://www.imdb.com/title/tt3774114/)                                            | Drama/Thriller            | 2016 | 7.3/10 |
 | [Algorithm](http://www.imdb.com/title/tt3293462/)                                          | Crime/Drama/Thriller      | 2014 | 4.8/10 |
